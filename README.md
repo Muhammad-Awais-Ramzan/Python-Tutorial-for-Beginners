@@ -2,12 +2,13 @@
 
 Welcome to **Python-Tutorial-for-Beginners** — a step-by-step, beginner-friendly guide designed to teach Python programming from scratch.
 
-Each topic is organized in a separate Jupyter Notebook for easy understanding and hands-on practice.
 
 ## 📁 File Structure
 
-| Notebook |
-|----------|
+Each topic is organized in a separate Jupyter Notebook for easy understanding and hands-on practice.
+
+| Notebooks |
+|-----------|
 | `1_Variables_Datatypes_Operators_and_Expressions.ipynb` |
 
 ## 🎯 Target Audience
