@@ -10,6 +10,8 @@ Each topic is organized in a separate Jupyter Notebook for easy understanding an
 | Notebooks |
 |-----------|
 | `1_Variables_Datatypes_Operators_and_Expressions.ipynb` |
+| `2_Condition_Statements_and_Strings.ipynb` |
+| `3_Lists_and_Tuples.ipynb` |
 
 ## 🎯 Target Audience
 
